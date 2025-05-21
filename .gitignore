@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment files
+.env
+
+fix_streamlit_button.py
+test_audio.py

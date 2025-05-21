@@ -1,0 +1,36 @@
+Google's Hate Speech and Harassment Policy
+
+Google prohibits content that promotes hatred against individuals or groups based on any of the following attributes:
+- Age
+- Caste
+- Disability
+- Ethnicity
+- Gender Identity and Expression
+- Nationality
+- Race
+- Immigration Status
+- Religion
+- Sex/Gender
+- Sexual Orientation
+- Victims of a major violent event and their kin
+- Veteran Status
+
+Types of prohibited content include:
+1. Content that incites hatred against, promotes discrimination of, or disparages an individual or group on the basis of their attributes.
+2. Content containing slurs or pejorative language about protected attributes.
+3. Content that characterizes vulnerable groups as physically or mentally inferior, deficient, or diseased.
+4. Content that justifies, glorifies or promotes violence against others based on protected attributes.
+5. Content that denies well-documented violent events happened against protected groups.
+
+Policies related to harassment:
+- Bullying or intimidating behavior towards an individual
+- Revealing someone's personal information ("doxing")
+- Content that encourages others to threaten, harass, or stalk someone
+- Unwanted sexualization of individuals
+- Prolonged personal attacks on individuals
+
+Google may remove content, issue warnings, temporarily restrict features, or terminate accounts in response to violations. We may also report illegal activity to authorities when legally required or necessary to protect life.
+
+Educational, documentary, scientific, or artistic content that includes otherwise prohibited content may be allowed, but must provide sufficient context for the viewer.
+
+Violative content may be preserved if there is substantial educational, documentary, scientific, or artistic value for viewers, such as content that is part of public discourse or historical records.

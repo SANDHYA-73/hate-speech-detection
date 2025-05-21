@@ -1,0 +1,24 @@
+Meta's Hate Speech Policy
+
+Meta prohibits hate speech, which is defined as a direct attack against people on the basis of what we call protected characteristics: race, ethnicity, national origin, disability, religious affiliation, caste, sexual orientation, sex, gender identity, and serious disease.
+
+We define "attack" as violent or dehumanizing speech, harmful stereotypes, statements of inferiority, expressions of contempt, disgust or dismissal, cursing, and calls for exclusion or segregation.
+
+Tier 1 violations include:
+- Content targeting a person or group with dehumanizing speech or imagery
+- Mocking the concept, events, or victims of hate crimes
+- Promoting designated hate groups and their ideology
+
+Tier 2 violations include:
+- Generalizations claiming inferiority of a protected group
+- Content implying physical deficiencies, mental deficiencies, moral deficiencies, or criminal behavior based on protected characteristics
+- Expressions of contempt, dismissal, or disgust directed at protected groups
+
+Tier 3 violations include:
+- Calls for segregation or exclusion of protected groups
+- Political exclusion explicitly tied to protected characteristics
+- Denial of right to political participation based on protected characteristics
+
+Meta may remove content in violation of these policies, restrict accounts, and in serious cases permanently disable accounts. Educational, documentary, scientific, or artistic content may be allowed with proper context.
+
+Do not include slurs, representations of hate speech, or hateful stereotypes when reporting content for potential violations.
