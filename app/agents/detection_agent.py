@@ -80,7 +80,7 @@ class HateSpeechDetectionAgent:
         try:
             logger.info(f"Analyzing text for hate speech detection")
             
-            # First try to use the LLM for classification
+            # LLM for classification
             if self.model:
                 try:
                     prompt = self.prompt_template.format(text=text)
@@ -154,4 +154,4 @@ class HateSpeechDetectionAgent:
         if len(text) > 100:
             return "Neutral", "The text does not contain obvious toxic or offensive language."
         else:
-            return "Ambiguous", "Unable to confidently classify this short text without context."
+            return "Ambiguous", "Unable to confidently classify this text without context."

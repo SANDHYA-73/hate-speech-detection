@@ -57,7 +57,7 @@ class PolicyReasoningAgent:
         1. Reference specific parts of the input text that led to this classification
         2. Cite specific policies or guidelines that apply to this content
         3. Be objective and educational in tone
-        4. Be 150-200 words in length
+        4. Be 50-100 words in length
         
         Provide your detailed reasoning:
         """

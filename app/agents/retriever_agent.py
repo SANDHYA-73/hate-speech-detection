@@ -131,7 +131,7 @@ class HybridRetrieverAgent:
             )
             logger.info("Dense index loaded successfully")
             
-            # Rebuild BM25 index since it's not persisted
+            
             self._rebuild_bm25_from_existing_data()
             
         except Exception as e:

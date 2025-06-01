@@ -5,7 +5,7 @@ import logging
 from typing import Dict, Any, List
 
 from langchain_core.runnables import RunnablePassthrough
-from langgraph.graph import StateGraph
+from langgraph.graph import StateGraph, END
 
 from ..agents.detection_agent import HateSpeechDetectionAgent
 from ..agents.retriever_agent import HybridRetrieverAgent
@@ -225,7 +225,7 @@ class HateSpeechDetectionWorkflow:
             initial_state = {"input_text": input_text}
             result = None
             
-            # Directly use the manual execution since the other methods aren't working
+            # Directly use the manual execution 
             result = self._manual_execute_workflow(initial_state)
             
             # If result is None, something went wrong

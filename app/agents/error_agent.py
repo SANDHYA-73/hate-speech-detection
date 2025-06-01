@@ -10,6 +10,13 @@ from typing import Dict, Any, Optional
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+#Node Execution → Exception Occurs → Error Agent Processes → State Updated with Error → Conditional Edge Routes to END
+'''[Input] → [Preprocess] → [Classify] → [Retrieve] → [Reason] → [Recommend] → [End]
+              ↓              ↓           ↓          ↓          ↓
+           [Error?]      [Error?]    [Error?]   [Error?]   [Error?]
+              ↓              ↓           ↓          ↓          ↓
+            [End]         [End]       [Reason]   [Recommend] [End]'''
+            
 class ErrorHandlerAgent:
     """Agent to handle errors gracefully throughout the application."""
     
