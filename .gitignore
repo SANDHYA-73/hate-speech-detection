@@ -3,3 +3,7 @@ venv/
 
 # Ignore environment files
 .env
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
